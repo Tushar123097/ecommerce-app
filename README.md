@@ -15,19 +15,26 @@ A modern e-commerce website built with React, featuring a beautiful UI, responsi
 ## Technologies Used
 
 - React.js
-- Tailwind CSS
+- Tailwind CSS![Screenshot (139)](https://github.com/user-attachments/assets/fb3e4069-f803-446b-90c1-27868b027330)
+
 - Framer Motion
 - React Icons
 - React Router
+![Screenshot (142)](https://github.com/user-attachments/assets/061a34d1-f81b-4bf5-89f5-df570e9a31e4)
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisites![Screenshot (140)](https://github.com/user-attachments/assets/f86f98f4-fc7f-4d8f-aca4-76bc7ad6d7e4)
 
-- Node.js (v14 or higher)
-- npm or yarn
+
+- Node.js (v14 or higher)![Screenshot (144)](https://github.com/user-attachments/assets/57c104cf-b0b3-4c2c-9c52-e2970ebe1647)
+
+- npm or yarn![Screenshot (143)](https://github.com/user-attachments/assets/bfed8431-50cb-4d5e-86c2-da611d06f826)
+
+![Screenshot (141)](https://github.com/user-attachments/assets/e3f3b669-c970-4b84-81d5-89eedca658e1)
 
 ### Installation
+![Screenshot (146)](https://github.com/user-attachments/assets/78471d57-d9a0-458c-a12c-a922232614c0)
 
 1. Clone the repository:
 ```bash
