@@ -31,7 +31,7 @@ A modern e-commerce website built with React, featuring a beautiful UI, responsi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/ecommerce-app.git
+git clone https://github.com/Tushar123097/ecommerce-app.git
 ```
 
 2. Navigate to the project directory:
@@ -80,6 +80,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Tushar Prajapati - [@Tushar123097](https://github.com/Tushar123097)
 
-Project Link: [https://github.com/your-username/ecommerce-app](https://github.com/your-username/ecommerce-app)
+Project Link: [https://github.com/Tushar123097/ecommerce-app](https://github.com/Tushar123097/ecommerce-app)
